@@ -1,3 +1,9 @@
+## Hacktoberfest Event by DucksOfDoom
+This repository to teach duck-community-india how to use Git, github during and after Hacktoberfest 2023. 
+PRs from outside DucksOfDooms are also welcomed.
+
+Read [CONTRIBUTING](https://github.com/bullyduck/ducommunity/blob/master/CONTRIBUTING.md) rules first.
+
 ## Hacktoberfest 2023
 
 <img width="1181" src="https://user-images.githubusercontent.com/44274982/199085190-0281ae0d-9a97-4b2e-8ba2-fc1268bfa137.png">
